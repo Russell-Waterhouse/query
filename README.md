@@ -5,7 +5,7 @@ that you want to find information from, and then typing your query?
 
 Me too!
 
-The solution: query - a CLI shortcut for this exercise.
+The solution: query - a CLI shortcut for this workflow.
 
 Simply run
 ```bash
