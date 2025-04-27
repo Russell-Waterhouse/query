@@ -34,3 +34,9 @@ Make sure that's on your path, and you're good to go.
 ## Prerequisites:
 1. chromium-browser (opened when running a query)
 2. Rust toolchain (for building the binary)
+
+## FAQ
+
+Q: Couldn't this have been done with two bash aliases? Why use Rust for this?  
+A: That would be the right way to do this, but I'm learning Rust so here we are.
+
