@@ -30,3 +30,7 @@ alias qg="query --google"
 ## Installation:
 Simply run `./install.sh` to install this package in your `~/bin` folder.
 Make sure that's on your path, and you're good to go.
+
+## Prerequisites:
+1. chromium-browser (opened when running a query)
+2. Rust toolchain (for building the binary)
